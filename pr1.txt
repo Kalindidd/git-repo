@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<title>Загадки</title>
+	
+<body>
+<h3>Отгадай загадки!</h3>
+	<p>Сто одёжек и все без застёжек<p/>
+	<input type="text" id=pussle1/>
+	</br></br></br>
+	<p>Зимой и летом одним цветом<p/>
+	<input type="text" id=puzzle2 />
+	</br></br></br>
+	<input type="button" value="Ответить"/>
+</body>
+</html>>
